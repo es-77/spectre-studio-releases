@@ -13,7 +13,7 @@ This repository is the official public download page for Spectre Studio.
 [**Download Spectre Studio – Latest Release**](../../releases/latest)
 
 ### Available Downloads
-
+ 
 | File | Description |
 |---|---|
 | `SpectreStudio-x.x.x-Setup.exe` | Windows installer (Recommended) |
